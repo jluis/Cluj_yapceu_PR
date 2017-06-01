@@ -1,6 +1,6 @@
 ## Why Joined to the CPAN Pull Request Challenge and why I keep on it 
 twitter:@jluis10
-github:@Luis
+github:@jluis
 ---
 <!-- .slide: data-background="survey.jpg" -->
 
