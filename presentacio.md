@@ -86,10 +86,11 @@ Note: Installed just before Potato released y la obligacion de expediente digita
 * MobaXTerm portable
    * Git
    * apt-cyg
-   * Perl 5.022
+   * Perl 5.022 plugin 5.014
    * http://mobaxterm.mobatek.net/
-* Sqlite Studio
-   * https://sqlitestudio.pl/index.rvt 
+* Sqlite 
+   * https://sqlitestudio.pl/index.rvt
+   * plug-ins de chrome & firefox  
 ___
 ### Preinstaldo
 * Cscript
@@ -112,13 +113,21 @@ ___
 ### Primeras Pruebas Nuevos objetos
 <!-- .slide: data-background-video="presenta.mp4" -->
 Note: stay here some time
----
+___
 ### Generacion PDFs
 * Windows Extra Xes2pcl GhostPcl
   * Maquina dedicada
 * Linux x3270 xes2pcl GhostPcl
   * Containerizable
 Note: Demo Time
+---
+### New Ways
+* perlito
+  * https://github.com/fglock/Perlito
+* babun
+  * https://gist.github.com/brxfork/cf5ddfe55969c6b2a426
+  * https://babun.github.io/
+* https://metacpan.org/release/Win32-Packer 
 ---
 # ¿Preguntas?
 ---
